@@ -10,7 +10,7 @@ import {
 } from "../types/security-group";
 import Link from "next/link";
 import { toast } from "react-toastify";
-import { deleteCustomer, listPageCustomer } from "../query/customer";
+import { listPageCustomer } from "../query/customer";
 import { customerSearchProp, listCustomerProps } from "../types/customer";
 import { Preloader } from "@/src/stuff";
 
