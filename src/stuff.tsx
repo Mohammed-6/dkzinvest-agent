@@ -1,4 +1,5 @@
-export const serverURL = "http://localhost:4004";
+// export const serverURL = "http://localhost:4004";
+export const serverURL = "https://dkzbackend.dikazo.com";
 
 export const serverHeaders = {
   token:
